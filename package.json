@@ -1,11 +1,10 @@
 {
-    "name": "monokai-vibrant",
-    "displayName": "Monokai Vibrant",
-    "description": "A very dark and vibrant Monokai based theme.",
-    "version": "0.5.3",
-    "publisher": "s3gf4ult",
+    "name": "monokai-vibrant-rust",
+    "displayName": "Monokai Vibrant Rust",
+    "description": "A very dark and vibrant Monokai based theme designed for Rust and Dioxus",
+    "version": "0.1.0",
+    "publisher": "DioxusLabs",
     "icon": "images/icon.png",
-    "author": "Dylan Marsh <dylan@knoware.co>",
     "license": "MIT",
     "galleryBanner": {
         "color": "#16171d",
@@ -13,12 +12,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/dylantmarsh/monokai-vibrant.git"
+        "url": "https://github.com/DioxusLabs/monokai-vibrant-rust"
     },
     "bugs": {
-        "url": "https://github.com/dylantmarsh/monokai-vibrant/issues"
+        "url": "https://github.com/DioxusLabs/monokai-vibrant-rust/issues"
     },
-    "homepage": "https://github.com/dylantmarsh/monokai-vibrant/blob/master/README.md",
+    "homepage": "https://github.com/DioxusLabs/monokai-vibrant-rust/blob/master/README.md",
     "engines": {
         "vscode": "^1.15.0"
     },
@@ -29,15 +28,22 @@
         "monokai",
         "vibrant",
         "dark",
-        "colorful"
+        "colorful",
+        "rust",
+        "dioxus"
     ],
     "contributes": {
         "themes": [
             {
-                "label": "Monokai Vibrant",
+                "label": "Monokai Vibrant (Rust)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Monokai Vibrant-color-theme.json"
-            }
+            },
+            {
+                "label": "Monokai Vibrant Light (Rust)",
+                "uiTheme": "vs",
+                "path": "./themes/Monokai Vibrant-color-theme-light.json"
+            },
         ]
     }
 }
