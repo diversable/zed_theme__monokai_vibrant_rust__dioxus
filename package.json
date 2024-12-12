@@ -43,7 +43,7 @@
                 "label": "Monokai Vibrant Light (Rust)",
                 "uiTheme": "vs",
                 "path": "./themes/Monokai Vibrant-color-theme-light.json"
-            },
+            }
         ]
     }
 }
