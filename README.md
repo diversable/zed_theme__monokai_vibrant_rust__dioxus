@@ -1,21 +1,18 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/dylantmarsh/monokai-vibrant/master/images/icon.png" width="80" />
-    <h2 align="center" style="letter-spacing:2px;font-weight:700">MONOKAI VIBRANT</h2>
+    <h2 align="center" style="letter-spacing:2px;font-weight:700">MONOKAI VIBRANT (Rust)</h2>
 </p>
 
-<p align="center">A very dark and vibrant Monokai based theme.</p>
+<p align="center">A very dark and vibrant Monokai based theme - forked and modified for Rust and Dioxus</p>
 
-<p align="center">
-    <img alt="Visual Studio Marketplace Rating" src="https://img.shields.io/visual-studio-marketplace/r/s3gf4ult.monokai-vibrant?color=%231dd1e5&style=for-the-badge">
-    <img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/s3gf4ult.monokai-vibrant?color=%23ff3f4e&style=for-the-badge">
-    <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/s3gf4ult.monokai-vibrant?color=%23ff9700&style=for-the-badge">
-</p>
+> This is a fork of [s3gf4ult/monokai-vibrant](https://github.com/s3gf4ult/monokai-vibrant) with some modifications to make it work with Dioxus and Rust. We modified some colors to be better for Rust code.
 
-![Monokai Vibrant JavaScript Example](https://f000.backblazeb2.com/file/app-media/monokai-vibrant.jpg)
+![Monokai Vibrant Rust Example](/images/demo.png)
 
 * 🌙 Super dark editor color scheme
 * 🍭 Vibrant colors for better readability
 * 💻 Italicized keywords compliments "Operator Mono" or similar fonts (optional)
+
 
 ## Install
 
