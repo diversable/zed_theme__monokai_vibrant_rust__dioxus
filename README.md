@@ -17,9 +17,9 @@
 ## Install
 
 1. Open the **Extensions** sidebar in VS Code.
-2. Search for `Monokai Vibrant`. Choose the one by **s3gf4ult**
+2. Search for `Monokai Vibrant`. Choose the one by ~~**s3gf4ult**~~ **DioxusLabs**
 3. Click the **Install** button
-4. Go to Preferences ‣ Color Theme ‣ **Monokai Vibrant**
+4. Go to Preferences ‣ Color Theme ‣ **Monokai Vibrant (Rust)**
 
 ## Disable Italics
 
